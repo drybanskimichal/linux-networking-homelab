@@ -1,0 +1,22 @@
+# Secrets and credentials
+.env
+*.env
+*.pem
+*.key
+*.pfx
+*.p12
+credentials*
+secrets*
+password*
+*.secret
+
+# SSH private keys
+id_rsa
+id_rsa.*
+*.pub
+
+# OS/editor files
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
